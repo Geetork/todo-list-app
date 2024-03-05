@@ -1,4 +1,4 @@
-# Todo List App React/TypeScript/RTK/DND
+# Todo List App React + TypeScript + RTK + DND
 This is a simple Todo List web application developed using React and Redux Toolkit. The application allows users to manage their tasks efficiently.
 
 ## User Interface
